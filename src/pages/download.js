@@ -90,7 +90,7 @@ export default function MainContent() {
                         </Heading>
 
                             {profile ?
-                                <Link href="https://mcwrbrgwprkxboezmsrx.supabase.co/storage/v1/object/public/game//asd%20(2).rar" download>
+                                <Link href="https://drive.google.com/uc?export=download&id=1iDl3HsI5gQ7vWdWSh6SW0viqVyxbMFNO" download>
                         <Button
                             colorScheme="pink"
                             size={{base: "md", md: "lg"}} // Responsive button size
